@@ -12,7 +12,7 @@ Columns: Date, Classification (Fear / Greed / Extreme Fear / Extreme Greed)
 Historical Trader Data (Hyperliquid)
 Columns include: account, symbol, execution price, size, side, time, closedPnL, leverage, etc.
 
-3)Tools & Technologies
+3) Tools & Technologies
 
 Python
 Pandas
